@@ -1,0 +1,13 @@
+name: FadedSocial
+version: ${project.version}
+main: tech.sshdoes.fadedsocial.Main
+api-version: 1.13
+authors: [SSH]
+description: Commands like /discord and /store for FadedMC
+website: sshdoes.tech
+commands:
+  discord:
+    description: Shows the discord link.
+    aliases: [disc]
+  store:
+    description: Shows the store link.
